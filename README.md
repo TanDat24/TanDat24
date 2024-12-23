@@ -8,9 +8,7 @@
 </div>
 <div>
 <b style='fontsize:60'>😤 Summary</b></br>
-<p>Hello, I am a Frontend Developer. I have just started my career in frontend development and I am currently learning and researching about HTML, CSS, JavaScript, and popular frameworks such as React, Ui library. I am trying my best to learn and improve my programming skills.
-
-I believe that I have a passion for programming and I will always try to find ways to develop my skills. I am looking forward to having the opportunity to participate in real projects to learn and apply my knowledge in practice. I am committed to dedicating myself to achieving the goals of the project and becoming a talented Frontend Developer in the future.</p>
+<p>Hello, I am a fresher at DevOps. I have search skills and research ability. I self-learning day by day to develop myself. I have experience with ReactJs, Bootstrap, Wordpress, Git, Database,... I can go to work at the office fulltime. I am attempting to achieve AWS SAA certificate and other techniques now. I hope to become your co-worker and contribute to your company better. </p>
 </div>
 
 # 💻Tech Stack
