@@ -1,28 +1,22 @@
 <div>
   <div>
-  <b style='fontsize:40'>✨ Personal Information</b></br>
+  <b style='fontsize:60'>✨ Personal Information</b></br>
 
 <b>Full Name:</b> Nguyen Tan Dat</br>
 
 <b>Email:</b> nguyentandat00522@gmail.com
 </div>
 <div>
-<b style='fontsize:40'>😤 Summary</b></br>
+<b style='fontsize:60'>😤 Summary</b></br>
 <p>Hello, I am a Frontend Developer. I have just started my career in frontend development and I am currently learning and researching about HTML, CSS, JavaScript, and popular frameworks such as React, Ui library. I am trying my best to learn and improve my programming skills.
 
 I believe that I have a passion for programming and I will always try to find ways to develop my skills. I am looking forward to having the opportunity to participate in real projects to learn and apply my knowledge in practice. I am committed to dedicating myself to achieving the goals of the project and becoming a talented Frontend Developer in the future.</p>
 </div>
-<div>
-<b style='fontsize:40'>🌱 Technical Skills</b>
-<ul>
-  <li>Programming Languages: My Skills</li>
-  <li>Frontend Frameworks and Libraries: My Skills</li>
-  <li>Backend Technologies: My Skills</li>
-  <li>Database Management: My Skills</li>
-  <li>Tools: My Skills</li>
-</ul>
-  </div>
-<b style='fontsize:40'>🕒 Education</b>
+
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+<b style='fontsize:60'>🕒 Education</b>
 <ul>
   <li>
     Name University: Industrial University of Ho Chi Minh City
@@ -40,9 +34,7 @@ I believe that I have a passion for programming and I will always try to find wa
     Honors: Regional ICPC, SC2022, IIRS2023
   </li>
 </ul>
-<b style='fontsize:40'>👐 Personal Projects</b>
-<b style='fontsize:40'>📘 Awards and Honors</b>
-
-
+<b style='fontsize:60'>👐 Personal Projects</b></div></br>
+<b style='fontsize:60'>📘 Awards and Honors</b>
 
 </div>
