@@ -1,6 +1,6 @@
 <div>
   <div>
-✨Personal Information
+✨Personal Information</br>
 <b>Full Name:</b> Nguyen Tan Dat</br>
 
 <b>Email:</b> nguyentandat00522@gmail.com
