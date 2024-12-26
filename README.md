@@ -1,6 +1,7 @@
 <div>
   <div>
-# ✨Personal Information
+    # ✨Personal Information
+# 
 </br>
 <b>Full Name:</b> Nguyen Tan Dat</br>
 
