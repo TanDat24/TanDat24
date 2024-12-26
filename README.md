@@ -7,7 +7,7 @@
 <b>Email:</b> nguyentandat00522@gmail.com
 </div>
 <div>
-# 😤 Summary
+# 😤Summary
 <p>Hello, I am a fresher at DevOps. I have search skills and research ability. I self-learning day by day to develop myself. I have experience with ReactJs, Bootstrap, Wordpress, Git, Database,... I can go to work at the office fulltime. I am attempting to achieve AWS SAA certificate and other techniques now. I hope to become your co-worker and contribute to your company better. </p>
 </div>
 
@@ -32,7 +32,7 @@
     Honors: Regional ICPC, SC2022, IIRS2023
   </li>
 </ul>
-# 👐Personal Projects 
+# 👐Personal Projects
 </br>
 # 📘Awards and Honors
 
