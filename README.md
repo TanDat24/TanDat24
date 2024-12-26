@@ -1,6 +1,6 @@
 <div>
   <div>
-    <b style = 'font-size: 22px'>✨Personal Information</b>
+    <b style="font-size: 26px;">✨Personal Information</b>
   </br>
     <b>Full Name: Nguyen Tan Dat</b></br>
     <b>Email:nguyentandat00522@gmail.com</b> 
