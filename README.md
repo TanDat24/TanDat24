@@ -26,10 +26,7 @@
         Branch: Software Engineering
       </li>
       <li>
-        Start: 2021
-      </li>
-      <li>
-        Honors: Regional ICPC, SC2022, IIRS2023
+        Start: 2022
       </li>
     </ul>
    <h2> <b>👐Personal Projects</b></h2>
